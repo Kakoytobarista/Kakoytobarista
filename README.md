@@ -1,5 +1,3 @@
-<p align="center"> Hello!) </p>
-_____
 <p align="center">
   <img src="https://github.com/Kakoytobarista/Kakoytobarista/blob/main/giphy.gif?raw=true" alt="Sublime's custom image"/>
 </p>
