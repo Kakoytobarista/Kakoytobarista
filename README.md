@@ -9,10 +9,9 @@ Hello everyone, my name is Aslan, this is my main github account. Here I mainly 
 
 PS: https://github.com/HeyAslan?tab=repositories (GitHub account with training tasks in Yandex-e and etc.)
 
-Внутри строки:  
+Some "IT" dad jokes:  
 ![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
-
-Some "IT" dad jokes ==> ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 _____
 ![snake gif](https://github.com/KakoytoBarista/KakoytoBarista/blob/output/github-contribution-grid-snake.gif)
