@@ -11,6 +11,8 @@ PS: https://github.com/HeyAslan?tab=repositories (GitHub account with training t
 
 Some "IT" dad jokes:  
 ![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 _____
