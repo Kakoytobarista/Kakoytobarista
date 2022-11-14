@@ -4,10 +4,10 @@
 
 
 _____
-*Hello everyone, my name is Aslan, this is my main github account. Here I mainly upload pet projects and technical tasks, welcome.
+*Hello everyone, my name is Aslan, this is my main github account. Here I mainly upload pet projects and technical tasks, welcome.*
 <br>
 
-PS: https://github.com/HeyAslan?tab=repositories (GitHub account with training tasks in Yandex-e and etc.)
+PS: https://github.com/HeyAslan?tab=repositories *(GitHub account with training tasks in Yandex-e and etc.)*
 _____
 Some "IT" dad jokes:  
 ![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
