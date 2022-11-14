@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="![Jokes Card](https://readme-jokes.vercel.app/api)" alt="Sublime's custom image"/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 </p>
 
 
